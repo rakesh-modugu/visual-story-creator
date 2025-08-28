@@ -1,0 +1,5 @@
+{
+  "name": "Visual Story Creator",
+  "description": "An application that uses AI to generate images from text prompts, allowing users to create compelling visual stories scene by scene.",
+  "requestFramePermissions": []
+}
